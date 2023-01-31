@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m "0x03-ES6_data_manipulation"
+git push
+
